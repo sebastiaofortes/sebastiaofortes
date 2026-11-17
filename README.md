@@ -17,7 +17,7 @@
 
 - 🌎 **10 anos de experiência em tecnologia**, atuando na construção de microsserviços em larga escala, observabilidade e implementação de agentes de IA em grandes organizações como **Mercado Livre**, **Tata Consultancy Services** e **Vale**.
 - 🔍 Movido por analisar e resolver problemas complexos em sistemas distribuídos, investigar causas-raiz além dos sintomas e projetar arquiteturas resilientes.
-- 🏆 **Hackathon Artificial Intelligence (Mercado Livre)**, **Premiado na Convenção Regional de Melhoria Contínua FCA/VLI (2019)**, palestrante, autor de artigos técnicos e criador de uma linguagem de programação brasileira open source.
+- 🏆 **Hackathon Artificial Intelligence (Mercado Livre)**, **Premiado na Convenção Regional de Melhoria Contínua FCA/VLI (2019)**, palestrante, autor de artigos técnicos e de muitas contribuições open source.
 
 ---
 
