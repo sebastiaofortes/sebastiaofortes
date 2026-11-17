@@ -27,8 +27,8 @@
 | :--- | :--- |
 | **Backend & Linguagens** | `Golang` · `Java` · `Python` · `JavaScript` · `C++` · `Spring Boot` · `Wire` · `NestJS` |
 | **Arquitetura & Cloud** | `Microsserviços` · `Sistemas Distribuídos` · `Mensageria` · `AWS` · `Google Cloud (Spanner, BigQuery)` · `MySQL` · `NoSQL Databases` |
-| **IA & Observabilidade** | `Agentes de IA` · `Orquestração` · `RAG` · `MCP` · `Datadog` · `Grafana` · `CI/CD` · `Gestão de Incidentes` |
-| **Qualidade & Testes** | `Testes Unitários` · `Testes E2E` · `Testes de Performance` · `JUnit` |
+| **IA & Observabilidade** | `Agentes de IA` · `Orquestração` · `RAG` · `MCP` · `Datadog` · `Grafana` · `Gestão de Incidentes` |
+| **Qualidade & Entrega** | `CI/CD` · `Testes Unitários` · `Testes E2E` · `Testes de Performance` · `JUnit` |
 
 ---
 
